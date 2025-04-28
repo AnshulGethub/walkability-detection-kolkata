@@ -1,0 +1,10 @@
+torch>=1.9
+torchvision
+opencv-python
+numpy
+pandas
+tqdm
+requests
+pyyaml
+roboflow
+matplotlib
