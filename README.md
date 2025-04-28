@@ -65,20 +65,30 @@ Main libraries used:
 📦 roboflow
 
 🤖 YOLOv5
+```
 
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 
 (1)Download GSV Images
+```bash
+python code/GSV_Image_extraction.py
+```
 
 (2)Train YOLOv5 Model
-
+```bash
+python code/Train_YOLOv5.py
+```
 (3)Run Inference on Images
+```bash
+python code/extracet_infromation.py
+```
 
 (4)Score the Features
+```bash
+python code/final\ Feature\ Scoring.py
+```
 
-
-
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 🗺️ OpenStreetMap contributors for pedestrian network data.
 
 🏢 Google Inc. for Google Street View API.
